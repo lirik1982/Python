@@ -1,0 +1,1 @@
+allure serve "D:\!GitHub\Simple Allure\allurereports\reports"
